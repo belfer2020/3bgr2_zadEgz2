@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Georgia';
+}
+
+header section {
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    display: inline-block;
+}
+div h2 {
+
+}
