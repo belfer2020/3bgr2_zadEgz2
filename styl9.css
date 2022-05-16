@@ -6,6 +6,7 @@ body{
     text-align: center;
     width: 50%;
     height: 180px;
+    float: left;
 }
 
 .baner, .stopka{
@@ -13,6 +14,7 @@ body{
     text-align: center;
     height: 100px;
     padding: 10px;
+    clear: both;
 }
 
 .glowny{
@@ -20,9 +22,29 @@ body{
     color: white;
     width: 50%;
     height: 400px;
+    float: left;
+}
+.glowny img{
+    height: 400px;
 }
 
+
 .odnosnik{
-    background: url("img/cukierki1.jpg");
+    background: url("img/cukierki3.jpg");
+    padding-right: 70px;
+    padding-bottom: 120px;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+table, td{
+    border:  2px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+
+h2{
+    letter-spacing: 10px;
+    font-size: 200%;
 }
 
