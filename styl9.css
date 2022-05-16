@@ -13,8 +13,34 @@ header section {
     text-align: center;
     width: 50%;
     height: 180px;
-    display: inline-block;
 }
-div h2 {
 
+header section:first-child {
+    float: left;
+}
+header section:last-child {
+    float: right;
+}
+
+.banner, footer {
+    background-color: rgb(246, 226, 222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+
+main section {
+    background-color: rgb(197, 85, 160);
+    color: #fff;
+    width: 50%;
+    height: 400px;
+}
+
+
+main section:first-child {
+    float: left;
+}
+main section:last-child {
+    float: right;
 }
