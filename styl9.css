@@ -1,6 +1,7 @@
 *{
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .goraL{
 float:left;
 text-align: center;
@@ -39,7 +40,7 @@ height:400px;
 float:right;
 }
 .stopka{
-    background-color:red;
+    background-color:rgb(246, 226, 222);
     text-align: center;
     letter-spacing:10px;
     height:20000px;
