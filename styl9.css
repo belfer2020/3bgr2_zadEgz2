@@ -1,4 +1,4 @@
-body {
+* {
     margin:0px;
     padding:0px;
     background-color: rgb(197, 85, 160);
@@ -7,12 +7,23 @@ body {
 
 #obrazki{
 text-align: center;
-width: 50%;
+width: 100%;
 height: 180px;
 padding: 10px;
 
+/*display: flex;
+flex-flow: row;*/
 }
-
+#a1 {
+ float:left;
+}
+#a2 {
+    float:right;
+   }
+#obrazki img {
+    /*display: flex;*/
+    width: 50%;
+}
 #heheh {
     font-size: 30px;
     text-align: center;
@@ -21,7 +32,22 @@ padding: 10px;
     color:black;
     background-color: beige;
 }
+main {
+    /*display: flex;
+    flex-flow: row;*/
+}
+#left {
+    color:white;
+    width: 50%;
+}
+#right {
+    width: 50%;
+}
+main #left table,#left tr,#left td {
 
-main article {
+border:1px blue solid;
+}
 
+footer {
+    text-align: center;
 }
