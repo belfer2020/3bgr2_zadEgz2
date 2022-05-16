@@ -1,0 +1,28 @@
+body{
+    font-family: georgia;
+}
+.gorny{
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+}
+
+.baner, .stopka{
+    background-color: rgb(246, 226, 222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+}
+
+.glowny{
+    background-color: rgb(197, 85, 160);
+    color: white;
+    width: 50%;
+    height: 400px;
+}
+
+.odnosnik{
+    background: url("img/cukierki1.jpg");
+}
+
