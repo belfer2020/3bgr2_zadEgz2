@@ -19,7 +19,7 @@
         </div>
     </nav>
     <div class="baner">
-        <h1>Nasza oferta</h1>
+        <h1>Zamów nasz produkt</h1>
     </div>
     <main>
         <div class="leftPanel">
@@ -49,12 +49,21 @@
             </table>
         </div>
         <div class="rightPanel">
-            <img src="cukierki3.jpg" alt="Nasze wyroby" />
+            <form id="forms" onsubmit="zamow()">
+                Podaj numer kształtu:</br>
+                <input type="numeric" id="shape"></br>
+                skomponuj swój kolor, podaj Rgb </br>
+                R<input type="numeric" id="R">G<input type="numeric" id="G">B<input type="numeric" id="G"></br>
+                <input type="button" id="order" value="zamów" />
+                <p id="shapeText">Wybrany kształt</p>
+                <button id="color"> Wybrany kolor </button>
+            </form>
         </div>
     </main>
     <footer>
         <p>Autor strony Mateusz Jarek</p>
     </footer>
+    <script src="js.js"></script>
 </body>
 
 </html>
