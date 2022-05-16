@@ -1,0 +1,51 @@
+*{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.goraL{
+float:left;
+text-align: center;
+background-color:rgb( 197, 85, 160 );
+width:50%; 
+height:180px;
+  
+}
+.goraP{
+  float:right;
+  text-align: center;
+  background-color:rgb( 197, 85, 160 );
+  width:50%;
+  height:180px;     
+}
+.baner{
+    background-color:rgb(246, 226, 222);
+    text-align: center;
+    letter-spacing:10px;
+    height:200px;
+    padding:10px;
+
+}
+.lewy{
+color:white;
+background-color:rgb(197, 85, 160);
+width:50%;
+height:400px;
+float:left;
+}
+.prawy{
+    color:white;
+    background-color:rgb(197, 85, 160);
+width:50%;
+height:400px;
+float:right;
+}
+.stopka{
+    background-color:red;
+    text-align: center;
+    letter-spacing:10px;
+    height:20000px;
+    padding:10px;
+
+}
+td{
+border:1px solid blue;
+}
