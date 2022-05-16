@@ -56,6 +56,11 @@ main section:last-child {
     float: right;
 }
 
+main section:last-child p {
+    margin: 10px 0px;
+}
+
+
 table, td {
     border: 2px solid blue;
     margin: 20px;
