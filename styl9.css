@@ -1,0 +1,20 @@
+nav{
+    height:200px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.mainLink {
+    flex-basis:50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.zamowieniaLink { 
+    flex-basis:50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
