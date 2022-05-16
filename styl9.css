@@ -1,0 +1,76 @@
+*
+{
+      margin: 0%;
+      padding: 0%;
+}
+
+
+#img
+{
+background-color: rgb(197, 85, 160);
+padding: 70px;
+
+height: 100px;
+}
+
+#baner
+{
+      text-align: center;
+      background-color: rgb(246, 226, 222);
+      padding: 10px;
+   
+
+}
+
+main 
+{
+      background-color: rgb(197, 85, 160);
+      height: 300px;
+}
+
+footer
+{
+      background-color: rgb(246, 226, 222);
+      height: 86px;
+}
+.autor
+{
+padding: 20px;
+text-align: center;
+
+}
+.zelki1
+{
+float: left;
+width: 200px;
+
+}
+
+.zelki2 
+{
+
+float: right;
+}
+
+table {
+      padding: 15px;
+      margin: 5px;
+      width: 20%;
+      height: 10%;
+      border-color: blue;
+      color: white;
+}
+
+
+li 
+{
+      padding: 2px;
+      margin: 2px;
+}
+
+.formularz
+{
+      float: right;
+      color: white;
+      padding: 10px;
+}
