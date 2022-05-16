@@ -1,0 +1,27 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-color: rgb(197, 85, 160);
+}
+
+
+#obrazki{
+text-align: center;
+width: 50%;
+height: 180px;
+padding: 10px;
+
+}
+
+#heheh {
+    font-size: 30px;
+    text-align: center;
+    padding: 40px;
+    margin: 0px;
+    color:black;
+    background-color: beige;
+}
+
+main article {
+
+}
