@@ -1,0 +1,43 @@
+* {
+  font-family: Georgia;
+}
+
+.up {
+  background-color: rgb(197, 85, 160);
+  text-align: center;
+  width: 50%;
+  width: 180px;
+}
+
+.banStop {
+  background-color: rgb(246, 226, 222);
+  text-align: center;
+  height: 100px;
+  padding: 10px;
+}
+
+.mein {
+  background-color: rgb(197, 85, 160);
+  color: white;
+  width: 50%;
+  height: 400px;
+}
+
+.zamow {
+  background-image: url("cukierki1.png");
+  padding-right: 50px;
+  padding-bottom: 120px;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+table td {
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 200%;
+  letter-spacing: 10px;
+}
