@@ -1,0 +1,72 @@
+html{
+    font-family: Georgia;
+}
+
+
+
+.GL{
+    background-color: rgb(197,85,160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: left;
+    
+}
+
+.GP{
+    background-color: rgb(197,85,160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: right;  
+}
+
+.baner{
+    text-align: center;
+    background-color: rgb(246, 226, 222);
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+
+.ML{
+    background-color: rgb(197,85,160);
+    color:white;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+.MP{
+    background-color: rgb(197,85,160);
+    color:white;
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(246, 226, 222);
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+
+table{
+    border: solid blue 2px;
+    padding: 10px;
+    margin: 20px;
+}
+
+td{
+    border: solid blue 2px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.cukierki3{
+    width: 533px;
+    height: 400px;
+}
