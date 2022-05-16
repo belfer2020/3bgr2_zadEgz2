@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     margin: 0px;
-    padding: 0px;
 }
 
 body {
@@ -22,6 +21,14 @@ header section:last-child {
     float: right;
 }
 
+header section:last-child a {
+    background-image: url(./cukierki1.jpg);
+   padding-right: 70px;
+   padding-bottom: 120px;
+   font-size: 150%;
+    text-decoration: none;
+}
+
 .banner, footer {
     background-color: rgb(246, 226, 222);
     text-align: center;
@@ -30,6 +37,10 @@ header section:last-child {
     clear: both;
 }
 
+.banner h2 {
+    letter-spacing: 10px;
+    font-size: 200%;
+}
 main section {
     background-color: rgb(197, 85, 160);
     color: #fff;
@@ -43,4 +54,14 @@ main section:first-child {
 }
 main section:last-child {
     float: right;
+}
+
+table, td {
+    border: 2px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+.cukierki3 {
+    width: 533px;
+    height: 400px;
 }
