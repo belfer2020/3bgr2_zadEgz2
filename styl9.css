@@ -30,7 +30,7 @@ flex-flow: row;*/
     padding: 40px;
     margin: 0px;
     color:black;
-    background-color: beige;
+    background-color: rgb(246, 226, 222);
 }
 main {
     /*display: flex;
@@ -50,4 +50,7 @@ border:1px blue solid;
 
 footer {
     text-align: center;
+    background-color: rgb(246, 226, 222);
+    position: absolute;
+    bottom: 0px;
 }
